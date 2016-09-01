@@ -1,7 +1,0 @@
-nyan
-====
-
-Overview
-
-## Demo
-
